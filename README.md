@@ -19,8 +19,11 @@ This is a responsive flight listing application built using React. It displays a
 
 
 1.Install dependencies
+
   npm install
+  
 2.Start the application
+
    npm start
 
 The app runs on http://localhost:3000
